@@ -30,8 +30,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/BogdanSDev/QR-code-webpage-Frontend-mentor-)
+- Live Site URL: [GitHub Pages](https://bogdansdev.github.io/QR-code-webpage-Frontend-mentor-/)
 
 ## My process
 
